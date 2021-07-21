@@ -1,2 +1,2 @@
-# slider-de-fotos
-Slider de fotos usando apenas HTML5 e CSS3
+# Slider de fotos
+Um slider de fotos utilizando HTML5 e CSS3
